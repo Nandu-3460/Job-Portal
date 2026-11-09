@@ -78,11 +78,11 @@ def create_document():
     meta_data = [
         ("Project Title", "Job Portal for Fresh Graduates"),
         ("Technology Stack", "Flutter Web, Dart, Material 3 UI"),
-        ("Student / Candidate Name", "[Candidate Name / Student Name]"),
-        ("Roll Number / Reg. ID", "[Student Roll Number / Registration ID]"),
-        ("Department / Branch", "Department of Computer Science & Engineering / IT"),
-        ("Institution / University", "[College / University Name]"),
-        ("Project Supervisor / Guide", "[Faculty Mentor / Supervisor Name]"),
+        ("Student / Candidate Name", "Manda Nandu"),
+        ("Roll Number / Reg. ID", "24PA1A05E1"),
+        ("Department / Branch", "Computer Science & Engineering"),
+        ("Institution / University", "VISHNU INSTITUTE OF TECHNOLOGY"),
+        ("Project Supervisor / Guide", "[Enter Guide / Faculty Name]"),
         ("Academic Year", "2026 – 2027"),
     ]
 

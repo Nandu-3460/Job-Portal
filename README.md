@@ -143,9 +143,9 @@ The compiled static assets will be located in the `build/web/` directory.
 ## 👥 Student & Academic Submission Details
 
 - **Project Title**: Job Portal for Fresh Graduates
-- **Student Name**: `[Enter Student Name]`
-- **Roll Number / Registration ID**: `[Enter Roll Number]`
-- **Department**: Department of Computer Science & Engineering / Information Technology
-- **Institution**: `[Enter College / University Name]`
-- **Project Supervisor**: `[Enter Guide / Faculty Name]`
+- **Student Name**: Manda Nandu
+- **Roll Number / Registration ID**: 24PA1A05E1
+- **Department**: Computer Science & Engineering
+- **Institution**: VISHNU INSTITUTE OF TECHNOLOGY
+- **Project Supervisor**: [Enter Guide / Faculty Name]
 - **Academic Year**: 2026 - 2027
