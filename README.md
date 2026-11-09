@@ -149,5 +149,5 @@ The compiled static assets will be located in the `build/web/` directory.
 - **Roll Number / Registration ID**: 24PA1A05E1
 - **Department**: Computer Science & Engineering
 - **Institution**: VISHNU INSTITUTE OF TECHNOLOGY
-- **Project Supervisor**: [Enter Guide / Faculty Name]
 - **Academic Year**: 2026 - 2027
+- **Project live link**: https://nandu-3460.github.io/Job-Portal/
